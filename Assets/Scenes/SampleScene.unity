@@ -385,7 +385,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8841a960d62e44547b02af68897bd8ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnCoolDown: 2.5
+  spawnCoolDown: 2
   background: {fileID: 1739438641}
   monster: {fileID: 7596700966006424019, guid: 6e8ec668a590a4e62ae6ada3fa46da13, type: 3}
 --- !u!4 &160098966
@@ -714,7 +714,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8841a960d62e44547b02af68897bd8ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnCoolDown: 2.5
+  spawnCoolDown: 2
   background: {fileID: 1739438641}
   monster: {fileID: 7596700966006424019, guid: 6e8ec668a590a4e62ae6ada3fa46da13, type: 3}
 --- !u!1 &475606341
@@ -1213,7 +1213,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8841a960d62e44547b02af68897bd8ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnCoolDown: 2.5
+  spawnCoolDown: 2
   background: {fileID: 1739438641}
   monster: {fileID: 7596700966006424019, guid: 6e8ec668a590a4e62ae6ada3fa46da13, type: 3}
 --- !u!4 &769264572
