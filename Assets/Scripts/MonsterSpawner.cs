@@ -54,7 +54,7 @@ public class MonsterSpawner : MonoBehaviour
     void GenerateNextMonster()
     {
         float linearNoise = Mathf.PerlinNoise1D(currentNoisePosition);
-        float colorValue = Mathf.Clamp(linearNoise, 0, 1);
+        float colorValue = Mathf.Clamp(linearNoise * 1.2f - 0.1f, 0, 1);
         currentNoisePosition += 0.1f;
         monsterQueue.Enqueue(new Color(colorValue, colorValue, colorValue, 1));
     }
