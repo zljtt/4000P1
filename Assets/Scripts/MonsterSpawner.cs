@@ -29,8 +29,6 @@ public class MonsterSpawner : MonoBehaviour
         GenerateNextMonster();
         GenerateNextMonster();
         GenerateNextMonster();
-        GenerateNextMonster();
-        GenerateNextMonster();
         UpdateTargetColor();
     }
 
